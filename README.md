@@ -3,8 +3,13 @@
 <h2>🔒 Cybersecurity Projects:</h2>
 
 - <b>Python</b>
-  - [Caesar Cipher Implementation in Pytho](https://github.com/abdisamadjoe/Caesar-Cipher-in-Python/tree/main)
+  - [Caesar Cipher Implementation in Python](https://github.com/abdisamadjoe/Caesar-Cipher-in-Python/tree/main)
 
+<h2>🎓 Certifications and Trainings</h2>
+
+- [Google Cybersecurity Professional Certificate](https://www.credly.com/badges/1daf591b-11df-4d72-bbd3-aec1f8799479/public_url)
+
+  
 <h2>📺 Popular YouTube Videos</h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
