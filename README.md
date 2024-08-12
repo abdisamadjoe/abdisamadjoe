@@ -10,6 +10,7 @@
 - [Google Cybersecurity Professional Certificate](https://www.credly.com/badges/1daf591b-11df-4d72-bbd3-aec1f8799479/public_url)
 - [ISC2 Certified in Cybersecurity (CC)](https://www.credly.com/badges/1daf591b-11df-4d72-bbd3-aec1f8799479/public_url)
 - [Mastercard Cybersecurity Virtual Experience on Forage](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/mastercard/vcKAB5yYAgvemepGQ_Mastercard_BtuuAS4ykxYB3eWfP_1718193898433_completion_certificate.pdf)
+- [Qualys Vulnerability Management - Foundation](https://www.credly.com/badges/1daf591b-11df-4d72-bbd3-aec1f8799479/public_url)
 
   
 <h2>📺 Popular YouTube Videos</h2>
