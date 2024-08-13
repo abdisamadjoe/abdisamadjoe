@@ -5,6 +5,9 @@
 - <b>Python</b>
   - [Caesar Cipher Implementation in Python](https://github.com/abdisamadjoe/Caesar-Cipher-in-Python/tree/main)
 
+- <b>Governance, Risk Management, and Compliance (GRC)</b>
+  - [Botium Toys Security Audit](https://github.com/abdisamadjoe/Botium-Toys-Security-Audit/tree/main)
+
 <h2>🎓 Certifications and Trainings</h2>
 
 - [Google Cybersecurity Professional Certificate](https://www.credly.com/badges/1daf591b-11df-4d72-bbd3-aec1f8799479/public_url)
