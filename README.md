@@ -7,7 +7,7 @@
 
 - <b>Governance, Risk Management, and Compliance (GRC)</b>
   - [Botium Toys Security Audit](https://github.com/abdisamadjoe/Botium-Toys-Security-Audit/tree/main)
-  - NIST Cybersecurity Framework: Incident Response Project](https://github.com/abdisamadjoe/Incident-Response-and-Analysis-Using-NIST-CSF/tree/main)
+  - NIST Cybersecurity Framework: Incident Response Project](https://github.com/abdisamadjoe/Botium-Toys-Security-Audit/tree/main)
 
 <h2>🎓 Certifications and Trainings</h2>
 
