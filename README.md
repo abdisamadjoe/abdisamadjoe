@@ -9,6 +9,7 @@
   - [Botium Toys Security Audit](https://github.com/abdisamadjoe/Botium-Toys-Security-Audit/tree/main)
   - [NIST Cybersecurity Framework: Incident Response Project](https://github.com/abdisamadjoe/File-permissions-in-Linux/tree/main)
   - [Vulnerability Assessment and Remediation Plan](https://github.com/abdisamadjoe/Vulnerability-Assessment-and-Remediation-Plan)
+  - [Incident Handler's Journal](https://github.com/abdisamadjoe/Incident-handler-s-journal)
  
 - <b>Linux</b>
   - [File Permissions in Linux](https://github.com/abdisamadjoe/File-permissions-in-Linux/tree/main)
