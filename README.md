@@ -11,7 +11,7 @@
  
 - <b>Linux</b>
   - [File Permissions in Linux](https://github.com/abdisamadjoe/File-permissions-in-Linux/tree/main)
-  - 
+    
 - <b>SQL</b>
   - [Apply filters to SQL queries](https://github.com/abdisamadjoe/Apply-filters-to-SQL-queries/tree/main)
 
