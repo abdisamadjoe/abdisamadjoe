@@ -10,7 +10,7 @@
   - [NIST Cybersecurity Framework: Incident Response Project](https://github.com/abdisamadjoe/File-permissions-in-Linux/tree/main)
  
 - <b>Linux</b>
-  - [File Permissions in Linux](https://github.com/abdisamadjoe/Botium-Toys-Security-Audit/tree/main)
+  - [File Permissions in Linux](https://github.com/abdisamadjoe/File-permissions-in-Linux/tree/main)
 
 <h2>🎓 Certifications and Trainings</h2>
 
