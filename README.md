@@ -5,6 +5,7 @@
 - <b>Python</b>
   - [Caesar Cipher Implementation in Python](https://github.com/abdisamadjoe/Caesar-Cipher-in-Python/tree/main)
   - [Password Complexity Checker](https://github.com/abdisamadjoe/Password-Complexity-Checker)
+  - [Simple Python Keylogger](https://github.com/abdisamadjoe/Simple-Python-Keylogger)
 
 - <b>Governance, Risk Management, and Compliance (GRC)</b>
   - [Botium Toys Security Audit](https://github.com/abdisamadjoe/Botium-Toys-Security-Audit/tree/main)
