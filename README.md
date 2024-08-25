@@ -6,12 +6,14 @@
   - [Caesar Cipher Implementation in Python](https://github.com/abdisamadjoe/Caesar-Cipher-in-Python/tree/main)
   - [Password Complexity Checker](https://github.com/abdisamadjoe/Password-Complexity-Checker)
   - [Simple Python Keylogger](https://github.com/abdisamadjoe/Simple-Python-Keylogger)
+  - [Python Packet Sniffer](https://github.com/abdisamadjoe/Packet-Sniffer)
 
 - <b>Governance, Risk Management, and Compliance (GRC)</b>
   - [Botium Toys Security Audit](https://github.com/abdisamadjoe/Botium-Toys-Security-Audit/tree/main)
   - [NIST Cybersecurity Framework: Incident Response Project](https://github.com/abdisamadjoe/File-permissions-in-Linux/tree/main)
   - [Vulnerability Assessment and Remediation Plan](https://github.com/abdisamadjoe/Vulnerability-Assessment-and-Remediation-Plan)
   - [Incident Handler's Journal](https://github.com/abdisamadjoe/Incident-handler-s-journal)
+  
  
 - <b>Linux</b>
   - [File Permissions in Linux](https://github.com/abdisamadjoe/File-permissions-in-Linux/tree/main)
