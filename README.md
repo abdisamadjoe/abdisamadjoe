@@ -4,7 +4,7 @@
 
 - <b>Python</b>
   - [Caesar Cipher Implementation in Python](https://github.com/abdisamadjoe/Caesar-Cipher-in-Python/tree/main)
-  - [Password Complexity Checker](https://github.com/abdisamadjoe/Password-Complexity-Checker)
+  - [Password Complexity Checker](https://github.com/abdisamadjoe/Password-Checker)
   - [Simple Python Keylogger](https://github.com/abdisamadjoe/Simple-Python-Keylogger)
   - [Python Packet Sniffer](https://github.com/abdisamadjoe/Packet-Sniffer)
 
