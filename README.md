@@ -10,7 +10,7 @@
 
 - <b>Governance, Risk Management, and Compliance (GRC)</b>
   - [Botium Toys Security Audit](https://github.com/abdisamadjoe/Botium-Toys-Security-Audit/tree/main)
-  - [NIST Cybersecurity Framework: Incident Response Project](https://github.com/abdisamadjoe/File-permissions-in-Linux/tree/main)
+  - [NIST Cybersecurity Framework: Incident Response Project](https://github.com/abdisamadjoe/Incident-Response-and-Analysis-Using-NIST-CSF/blob/main/README.md)
   - [Vulnerability Assessment and Remediation Plan](https://github.com/abdisamadjoe/Vulnerability-Assessment-and-Remediation-Plan)
   - [Incident Handler's Journal](https://github.com/abdisamadjoe/Incident-handler-s-journal)
   
