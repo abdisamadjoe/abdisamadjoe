@@ -2,6 +2,10 @@
 
 <h2>🔒 Cybersecurity Projects:</h2>
 
+- <b>Best</b>
+  - [Active Directory & User Management with PowerShell](https://github.com/abdisamadjoe/AD-PS-User-Management)
+  - [Vulnerability Scan Setting Up OpenVAS on Kali Linux](https://github.com/abdisamadjoe/VulnerabilityGVM-Kali-Setup)
+    
 - <b>Python</b>
   - [Caesar Cipher Implementation in Python](https://github.com/abdisamadjoe/Caesar-Cipher-in-Python/tree/main)
   - [Password Complexity Checker](https://github.com/abdisamadjoe/Password-Checker)
