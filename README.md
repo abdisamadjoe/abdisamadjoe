@@ -26,18 +26,17 @@
   - [Apply filters to SQL queries](https://github.com/abdisamadjoe/Apply-filters-to-SQL-queries/tree/main)
 
 
-<h2>🎓 Certifications and Trainings</h2>
+<h2>🎓 Certifications </h2>
 
 - [Google Cybersecurity Professional Certificate](https://www.credly.com/badges/1daf591b-11df-4d72-bbd3-aec1f8799479/public_url)
-- [ISC2 Certified in Cybersecurity (CC)](https://www.credly.com/badges/1daf591b-11df-4d72-bbd3-aec1f8799479/public_url)
-- [Mastercard Cybersecurity Virtual Experience on Forage](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/mastercard/vcKAB5yYAgvemepGQ_Mastercard_BtuuAS4ykxYB3eWfP_1718193898433_completion_certificate.pdf)
-- [Qualys Vulnerability Management - Foundation](https://www.credly.com/badges/1daf591b-11df-4d72-bbd3-aec1f8799479/public_url)
+- [ISC2 Certified in Cybersecurity (CC)](https://www.credly.com/badges/1189dc54-859c-4c7f-aaa2-435a42adf5d5/public_url)
 
   
 <h2>📝 Popular Blogs</h2>
 
-- [How I Scored a 7.0 on the IELTS: 5 Essential Tips from 4 Months of Prep](https://abdisamadjoe.com/ielts-prep-tips/)
-- [Comparing Windows and Linux: What CrowdStrike’s Recent Issues Reveal](https://abdisamadjoe.com/windows-vs-linux-crowdstrike/)
+- [Why Google’s Cybersecurity Certificate is the Best for Beginners](https://abdisamadjoe.com/google-cybersecurity/)
+- [Choosing the Right Web Browser in 2024](https://abdisamadjoe.com/choose-web-browser/)
+- [Straightforward Strategies for the ISC2 Certified in Cybersecurity Exam](https://abdisamadjoe.com/pass-isc2-certified-in-cybersecurity/)
 
 
 <h2> 🤳 Connect with me:</h2>
@@ -49,5 +48,7 @@
 [twitter]: https://twitter.com/abdisamadjoe
 [youtube]: https://www.youtube.com/@abdisamadjoe
 [linkedin]: https://linkedin.com/in/abdisamadjoe
+[Portfolio]: https://abdisamadjoe.com/
+
 
 
