@@ -7,9 +7,9 @@
   - [Vulnerability Scan Setting Up OpenVAS on Kali Linux](https://github.com/abdisamadjoe/VulnerabilityGVM-Kali-Setup)
     
 - <b>Python</b>
-  - [Caesar Cipher Implementation in Python](https://github.com/abdisamadjoe/Caesar-Cipher-in-Python/tree/main)
   - [Password Complexity Checker](https://github.com/abdisamadjoe/Password-Checker)
   - [Simple Python Keylogger](https://github.com/abdisamadjoe/Simple-Python-Keylogger)
+  - [Caesar Cipher Implementation in Python](https://github.com/abdisamadjoe/Caesar-Cipher-in-Python/tree/main)
   - [Python Packet Sniffer](https://github.com/abdisamadjoe/Packet-Sniffer)
 
 - <b>Governance, Risk Management, and Compliance (GRC)</b>
