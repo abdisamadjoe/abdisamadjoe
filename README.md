@@ -1,4 +1,4 @@
-<h1>Hi, I'm Abdisamad Yusuf! <br/><a href="https://www.linkedin.com/in/abdisamadjoe/">Cybersecurity Professional</a>, <a href="https://abdisamadjoe.com/blogs/">Content Creator</a></h1>
+<h1>Hi, I'm Abdisamad Yusuf! <br/><a href="https://www.linkedin.com/in/abdisamadjoe/">Cybersecurity Professional</a>, <a href="https://abdisamadjoe.com/blog/">Content Creator</a></h1>
 
 <h2>🔒 Cybersecurity Projects:</h2>
 
