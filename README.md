@@ -1,7 +1,5 @@
 <h1>Hi 👋, I'm Abdisamad Yusuf</h1>
-<p>An aspiring cybersecurity professional from Somalia!</p>
 
-# 💫 About Me:
 💻 Aspiring cybersecurity professional<br><br>🎓 Computer Science graduate with over 3 years of tech experience<br><br>📜 Certified by Google, ISC2, AWS, and Microsoft<br><br>🚀 Founder of GuardAura (cybersecurity) and Sameelo (web design)<br><br>🏆 Ranked in the top 1% on TryHackMe; active on LetsDefend and CyberDefenders<br><br>🤝 Open to roles in cybersecurity and cloud, as well as collaborations
 
 
