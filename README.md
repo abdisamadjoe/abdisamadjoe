@@ -15,27 +15,18 @@
 
 > Deep in vibe-coding mode – building AI-powered developer tools at ludicrous speed. After 13+ years shipping native iOS, modern web feels like a breath of fresh air.
 
-🍭 **[sweetistics.com](https://sweetistics.com/)** (closed source) – AI-powered Twitter platform with analytics/ops stack.
+
 
 ## Current Projects
 
 - 📸 **[Snap2Sell](https://snap22sell.netlify.app/)** - the marketplace where Kenyans buy and sell anything in seconds
 
-### Legacy Work
-- 🔄 **[CodeLooper](https://github.com/steipete/CodeLooper)** - macOS menubar app for Cursor workflow monitoring and automation
-- 🧩 **[InterposeKit](https://github.com/steipete/InterposeKit)** - Modern Swift method swizzling
-- 🪝 **[Aspects](https://github.com/steipete/Aspects)** - AOP for Objective-C (10k+ stars)
-- 📄 **[PSPDFKit](https://pspdfkit.com)** - Industry-leading PDF SDK ([exited 2021](https://techcrunch.com/2021/10/01/pspdfkit-raises-116m-its-first-outside-money-now-nearly-1b-people-use-apps-powered-by-its-collaboration-signing-and-markup-tools/))
-- 🛑 **[Terminator MCP](https://github.com/steipete/Terminator)** - I'll be back... with your terminal output!
-- 🪢 **[Conduit MCP](https://github.com/steipete/conduit-mcp)** - Purr-fect MCP server for feline-fast file ops, web prowling, and data hunting
-- 🛡️ **[XC Sentinel](https://github.com/steipete/xcsentinel)** - Intelligent Xcode automation with incremental builds and AI-friendly output
-- 🍵 **[Matcha](https://github.com/steipete/Matcha)** - Swift port of Bubble Tea TUI framework
-- 🌡️ **[VibeMeter](https://github.com/steipete/vibemeter)** - Archived: AI cost tracker for Cursor/OpenAI (vibemeter.ai)
+
 
 
 ## GitHub Activity
 
-![GitHub Contribution Graph](https://ghchart.rshah.org/steipete)
+![GitHub Contribution Graph](https://ghchart.rshah.org/abdisamadjoe)
 
 ## What I'm Doing
 
