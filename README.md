@@ -12,7 +12,6 @@
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Coolify](https://img.shields.io/badge/-Coolify-6C3DE8?style=flat-square&logo=coolify&logoColor=white)
 ![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
 
 > Deep in vibe-coding mode – building AI-powered developer tools at ludicrous speed. After 13+ years shipping native iOS, modern web feels like a breath of fresh air.
