@@ -21,7 +21,7 @@
 ## Current Projects
 
 - 📸 **[Snap2Sell](https://snap22sell.netlify.app/)** - the marketplace where Kenyans buy and sell anything in seconds.
-- 🎧 **[Hearline](https://github.com/abdisamadjoe/Hearline)** - hear any webpage aloud, word by word, with real-time highlighting. Free, private, no account needed.
+- 🎧 **[Hearline](https://github.com/abdisamadjoe/Hearline)** - Hearline reads any webpage, article or blog out loud with real-time word highlighting.
 
 
 
