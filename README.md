@@ -20,7 +20,7 @@
 
 ## Current Projects
 
-- 🏠 **[Jengo](https://jengo.groundwork.co.ke/)** - The multi-tenant property management SaaS platform for Kenyan landlords and property managers.
+- 🏠 **[JengoPesa](https://jengopesa.groundwork.co.ke/)** - The multi-tenant property management SaaS platform for Kenyan landlords and property managers.
 - 🎧 **[Hearline](https://github.com/abdisamadjoe/Hearline)** - Hearline reads any webpage, article or blog out loud with real-time word highlighting.
 - 📸 **[Snap2Sell](https://snap22sell.netlify.app/)** - the marketplace where Kenyans buy and sell anything in seconds.
 
