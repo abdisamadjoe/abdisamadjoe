@@ -16,7 +16,7 @@
 ![Antigravity](https://img.shields.io/badge/-Antigravity-121212?style=flat-square&logo=shield&logoColor=white)
 ![Web](https://img.shields.io/badge/-Web-0A66C2?style=flat-square&logo=google-chrome&logoColor=white)
 
-> Deep in vibe-coding mode – building AI-powered developer tools at ludicrous speed. After 13+ years shipping native iOS, modern web feels like a breath of fresh air.
+> Building AI-powered tools with a cybersecurity mindset, focused on real-world systems, not just demos.
 
 
 
