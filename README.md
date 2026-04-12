@@ -1,6 +1,6 @@
 # Hi, I'm Abdisamad Yusuf 👋
 
-📍 **Nairobi ↔ Mogadishu** | 🤖 **DevSecOps Engineer** | 🚀 **Groundwork Technologies Founder**
+📍 **Nairobi ↔ Mogadishu** | 🤖 **DevSecOps Engineer** | ➤ **Groundwork Technologies Founder**
 
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
