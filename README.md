@@ -14,6 +14,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
 ![Antigravity](https://img.shields.io/badge/-Antigravity-121212?style=flat-square&logo=shield&logoColor=white)
+![Web](https://img.shields.io/badge/-Web-0A66C2?style=flat-square&logo=google-chrome&logoColor=white)
 
 > Deep in vibe-coding mode – building AI-powered developer tools at ludicrous speed. After 13+ years shipping native iOS, modern web feels like a breath of fresh air.
 
