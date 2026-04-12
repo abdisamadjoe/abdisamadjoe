@@ -22,7 +22,7 @@
 
 - 📸 **[Snap2Sell](https://snap22sell.netlify.app/)** - the marketplace where Kenyans buy and sell anything in seconds.
 - 🎧 **[Hearline](https://github.com/abdisamadjoe/Hearline)** - Hearline reads any webpage, article or blog out loud with real-time word highlighting.
-- 🏠 **[Jengo](https://jengo.groundwork.co.ke/)** - The property management platform built for Kenyan landlords.
+- 🏠 **[Jengo](https://jengo.groundwork.co.ke/)** - The multi-tenant property management SaaS platform for Kenyan landlords.
 
 
 ## GitHub Activity
