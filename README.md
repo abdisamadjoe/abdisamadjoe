@@ -1,4 +1,4 @@
-# Hi, I'm Abdisamad Y. 👋
+# Hi, I'm Abdisamad Yusuf 👋
 
 📍 **Nairobi ↔ Mogadishu** | 🤖 **DevSecOps Engineer** | 🚀 **Groundwork Technologies Founder**
 
