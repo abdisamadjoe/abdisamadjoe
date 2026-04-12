@@ -16,7 +16,7 @@
 ![Antigravity](https://img.shields.io/badge/-Antigravity-121212?style=flat-square&logo=shield&logoColor=white)
 ![Web](https://img.shields.io/badge/-Web-0A66C2?style=flat-square&logo=google-chrome&logoColor=white)
 
-> Building AI-powered tools with a cybersecurity mindset, focused on real-world systems, not just demos.
+> Building AI tools with security in mind, focused on real systems that people actually use, not just demo projects.
 
 
 
@@ -35,19 +35,17 @@
 
 ## What I'm Doing
 
-- **Living in the future** - Learning and building tools to make agentic engineering faster for everyone
-- **Writing about AI workflows** - Sharing my learnings on [steipete.me](https://steipete.me)
-- **Rapid prototyping** - Full apps in days, not months
-- **[Speaking at conferences](https://github.com/steipete/speaking)** - On vibe coding vs agentic engineering and the future of development
+- **Building AI tools and apps** - Making simple, useful tools for real problems in business and everyday life
+- **YouTube content creation** - Sharing tech, cybersecurity, and app-building videos on [Mr. Elmi]([https://www.youtube.com/@MrElmiCyber])
 
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Claude Code Anonymous](https://steipete.me/posts/2025/claude-code-anonymous)
-- [Live Coding Session: Building Arena](https://steipete.me/posts/2025/live-coding-session-building-arena)
-- [Peekaboo 2.0 – Free the CLI from its MCP shackles](https://steipete.me/posts/2025/peekaboo-2-freeing-the-cli-from-its-mcp-shackles)
-- [My AI Workflow for Understanding Any Codebase](https://steipete.me/posts/2025/understanding-codebases-with-ai-gemini-workflow)
-- [VibeTunnel: Turn Any Browser into Your Mac's Terminal](https://steipete.me/posts/2025/vibetunnel-turn-any-browser-into-your-mac-terminal)
+- [How I Passed Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900) in Just 3 Days](https://medium.com/@abdisamadjoe/how-i-passed-microsoft-certified-security-compliance-and-identity-fundamentals-sc-900-in-just-09dacc353447)
+- [How I Passed Microsoft Certified: Azure Fundamentals in Just 7 Days](https://medium.com/@abdisamadjoe/how-i-passed-microsoft-certified-azure-fundamentals-in-just-7-days-7206a309a35f)
+- [How I Passed and Became AWS Certified Cloud Practitioner](https://medium.com/@abdisamadjoe/how-i-passed-the-aws-cloud-practitioner-exam-on-my-first-try-1e1cf9c82861)
+- [The Simple Productivity System That Finally Worked for Me](https://medium.com/@abdisamadjoe/i-was-always-busy-but-never-productive-until-i-did-this-4163ad08be73)
+- [Why Google’s Cybersecurity Certificate is the Best for Beginners](https://medium.com/@abdisamadjoe/why-googles-cybersecurity-certificate-is-the-best-for-beginners-b6e9ada88bfb)
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect
@@ -59,36 +57,6 @@
 
 ---
 
-### Recognition
-
-- Featured in **[The Pragmatic Engineer](https://newsletter.pragmaticengineer.com/p/software-engineering-with-llms-in-2025)** newsletter
-- International speaker ([See my talks](https://github.com/steipete/speaking))
-- 15k+ GitHub stars across projects
-- Bootstrapped PSPDFKit to millions in ARR before exit
-
-### Media
-
-- **[How to Code 20x Faster with Claude Code](https://www.youtube.com/watch?v=JGxyrPkAKiY&t=2s)** - Detailed walkthrough of my AI-native development workflow
-- **[Inside Apple's AI Fail](https://www.podcast.de/episode/689639265/inside-apples-ai-fail-mit-peter-steinberger)** - German podcast discussing Apple Intelligence
-- **[AI Native Development Interview](https://www.youtube.com/watch?v=fu7th5HiADo)** - Deep dive into vibe coding and the future of software development
-- **[Arena Live Build – Full Session](https://www.youtube.com/watch?v=z2IDQbNOS5s)** - Live coding session showing the full Arena build process
-- **[Claude 3 Sonnet 'Funeral' in San Francisco](https://www.wired.com/story/claude-3-sonnet-funeral-san-francisco/)** - WIRED article featuring the memorial for Claude 3.5 Sonnet ([no paywall](https://gist.github.com/steipete/8344756e51df68406eb5302d4c19d6ea))
-
-### Model Status
-
-- **What model is Peter using?** Check the live blurb at [whatmodelispeterusing.com](https://whatmodelispeterusing.com)
-
 ### Philosophy
 
 > "Ship beats perfect" - I build tools to solve my own problems, then share them with the world. Currently exploring how AI changes everything about software development.
-
-<details>
-<summary>Random Facts</summary>
-
-- Treat AI agents as "slot machines for programmers"
-- Run 3-6 Claude instances concurrently
-- Powered by Vienna coffee culture
-- Gym enthusiast (when not coding)
-- Coaches LGBTQ+ folks at [Out In Tech](https://outintech.com/)
-
-</details>
