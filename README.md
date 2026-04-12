@@ -36,7 +36,7 @@
 ## What I'm Doing
 
 - **Building AI tools and apps** - Making simple, useful tools for real problems in business and everyday life
-- **YouTube content creation** - Sharing tech, cybersecurity, and app-building videos on [Mr. Elmi]([https://www.youtube.com/@MrElmiCyber])
+- **YouTube content creation** - Sharing tech, cybersecurity, and app-building videos on [Mr. Elmi](https://www.youtube.com/@MrElmiCyber)
 
 ## Latest Blog Posts
 
