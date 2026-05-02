@@ -23,7 +23,7 @@
 ## Current Projects
 
 - 🛡️ **[DifaacSec](https://difaacsec.abdisamadjoe.com/)** – a FREE, hands-on cybersecurity platform for Somali learners.
-- 🏠 **[JengoPesa](https://jengopesa.co.ke/)** - the multi-tenant property management SaaS platform for Kenyan landlords and property managers.
+- 🏠 **[JengoPesa](https://jengopesa.co.ke/)** - The modern standard for property management in Kenya.
 - 🎧 **[Hearline](https://hearline.groundwork.co.ke/)** - reads any webpage, article or blog out loud with real-time word highlighting.
 - 📸 **[Snap2Sell](https://snap22sell.netlify.app/)** - the marketplace where Kenyans buy and sell anything in seconds.
 
