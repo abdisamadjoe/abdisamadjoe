@@ -60,4 +60,4 @@
 
 ### Philosophy
 
-> "The best code is the one that is not written.
+> "The best code is the one that is not written."
