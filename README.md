@@ -60,4 +60,4 @@
 
 ### Philosophy
 
-> "Ship beats perfect" - I build tools to solve my own problems, then share them with the world. Currently exploring how AI changes everything about software development.
+> "The best code is the one that is not written.
