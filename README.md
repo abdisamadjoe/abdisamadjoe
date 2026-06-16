@@ -1,6 +1,6 @@
 # Hi, I'm Abdisamad Yusuf 👋
 
-Nairobi ↔ Mogadishu | 🛡️ DevSecOps Engineer | Groundwork Technologies
+Nairobi ↔ Mogadishu | DevSecOps Engineer | Groundwork Technologies
 
 [![My Skills](https://skillicons.dev/icons?i=figma,tailwind,nextjs,react,nodejs,express,ts,nestjs,prisma,postgres,redis,flutter,dart,firebase,cloudflare,github,githubactions,aws,ubuntu,docker,kubernetes,terraform,prometheus,grafana,kali&theme=light&perline=50)](https://skillicons.dev)
 
