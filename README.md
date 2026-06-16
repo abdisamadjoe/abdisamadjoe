@@ -2,7 +2,7 @@
 
 📍 **Nairobi ↔ Mogadishu** | 🤖 **DevSecOps Engineer** | ➤ **Groundwork Technologies Founder**
 
-[![My Skills](https://skillicons.dev/icons?i=figma,tailwind,nextjs,react,nodejs,express,ts,postgres,redis,flutter,aws,ubuntu,docker,kubernetes,prometheus,grafana,kali&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,tailwind,nextjs,react,nodejs,express,ts,postgres,redis,flutter,aws,ubuntu,docker,kubernetes,prometheus,grafana,kali&theme=light&perline=3)](https://skillicons.dev)
 
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
