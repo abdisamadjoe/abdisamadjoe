@@ -1,15 +1,6 @@
 # Hi, I'm Abdisamad Yusuf 👋
 
-<p>
-  <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/location-dot.svg" width="14" />
-  <strong>Nairobi ↔ Mogadishu</strong>
-
-  <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/shield-halved.svg" width="14" />
-  <strong>DevSecOps Engineer</strong>
-
-  <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/briefcase.svg" width="14" />
-  <strong>Groundwork Technologies Founder</strong>
-</p>
+Nairobi ↔ Mogadishu | 🛡️ DevSecOps Engineer | Groundwork Technologies
 
 [![My Skills](https://skillicons.dev/icons?i=figma,tailwind,nextjs,react,nodejs,express,ts,nestjs,prisma,postgres,redis,flutter,dart,firebase,cloudflare,github,githubactions,aws,ubuntu,docker,kubernetes,terraform,prometheus,grafana,kali&theme=light&perline=50)](https://skillicons.dev)
 
