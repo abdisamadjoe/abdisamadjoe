@@ -18,7 +18,7 @@
 ![Antigravity](https://img.shields.io/badge/-Antigravity-121212?style=flat-square&logo=shield&logoColor=white)
 ![Web](https://img.shields.io/badge/-Web-0A66C2?style=flat-square&logo=google-chrome&logoColor=white)
 
-![status](https://img.shields.io/badge/coverage-95%25-orange)
+!(https://img.shields.io/badge/coverage-95%25-orange)
 ![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/276544649148235776)
 ![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/276544649148235776)
 [![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/276544649148235776)](https://dev.discordprofiles.me/openspotify/276544649148235776)
