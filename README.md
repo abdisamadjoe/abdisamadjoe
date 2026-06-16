@@ -1,6 +1,6 @@
 # Hi, I'm Abdisamad Yusuf 👋
 
-<p align="center">
+<p>
   <img src="https://cdn.simpleicons.org/googlemaps/ff0000" width="14" />
   <strong>Nairobi ↔ Mogadishu</strong> |
   🤖 <strong>DevSecOps Engineer</strong> |
