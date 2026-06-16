@@ -4,7 +4,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=figma,tailwind,nextjs,react,nodejs,express,ts,nestjs,prisma,postgres,redis,flutter,dart,firebase,cloudflare,github,githubactions,aws,ubuntu,docker,kubernetes,terraform,prometheus,grafana,kali&theme=light&perline=50)](https://skillicons.dev)
 
-> Building AI tools with security in mind, focused on real systems that people actually use, not just demo projects.
+> I build secure websites, apps, and solutions for businesses. Real products that people actually use.
 
 
 
