@@ -18,6 +18,7 @@
 ![Antigravity](https://img.shields.io/badge/-Antigravity-121212?style=flat-square&logo=shield&logoColor=white)
 ![Web](https://img.shields.io/badge/-Web-0A66C2?style=flat-square&logo=google-chrome&logoColor=white)
 
+
 > Building AI tools with security in mind, focused on real systems that people actually use, not just demo projects.
 
 
