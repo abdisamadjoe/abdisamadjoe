@@ -4,12 +4,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=figma,tailwind,nextjs,react,nodejs,express,ts,nestjs,prisma,postgres,redis,flutter,dart,firebase,cloudflare,github,githubactions,aws,ubuntu,docker,kubernetes,terraform,prometheus,grafana,kali&theme=light&perline=50)](https://skillicons.dev)
 
-![playing](https://img.shields.io/badge/Playing-Chess-green)
-![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/276544649148235776)
-![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/276544649148235776)
-[![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/276544649148235776)](https://dev.discordprofiles.me/openspotify/276544649148235776)
-
-
 > Building AI tools with security in mind, focused on real systems that people actually use, not just demo projects.
 
 
