@@ -1,6 +1,11 @@
 # Hi, I'm Abdisamad Yusuf 👋
 
-<FontAwesomeIcon icon={faLocationDot} style={{ color: "red" }} /> Nairobi ↔ Mogadishu | 🤖 DevSecOps Engineer | ➤ Groundwork Technologies Founder
+<p align="center">
+  <img src="https://cdn.simpleicons.org/googlemaps/ff0000" width="14" />
+  <strong>Nairobi ↔ Mogadishu</strong> |
+  🤖 <strong>DevSecOps Engineer</strong> |
+  ➤ <strong>Groundwork Technologies Founder</strong>
+</p>
 
 [![My Skills](https://skillicons.dev/icons?i=figma,tailwind,nextjs,react,nodejs,express,ts,nestjs,prisma,postgres,redis,flutter,dart,firebase,cloudflare,github,githubactions,aws,ubuntu,docker,kubernetes,terraform,prometheus,grafana,kali&theme=light&perline=50)](https://skillicons.dev)
 
