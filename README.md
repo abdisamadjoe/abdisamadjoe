@@ -4,7 +4,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=figma,tailwind,nextjs,react,nodejs,express,ts,nestjs,prisma,postgres,redis,flutter,dart,firebase,cloudflare,github,githubactions,aws,ubuntu,docker,kubernetes,terraform,prometheus,grafana,kali&theme=light&perline=50)](https://skillicons.dev)
 
-> I build secure websites, apps, and solutions for businesses. Real products that people actually use.
+> I build software for SMEs and organizations that solve their problems, with enterprise-grade security built in.
 
 
 
