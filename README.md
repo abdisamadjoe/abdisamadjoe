@@ -18,7 +18,7 @@
 ## When I'm Not Building
 
 - I create courses and tutorials that teach Cybersecurity, Linux, and Cloud on YouTube <img src="https://img.logo.dev/name/youtube?token=pk_KNq359F_SLGXSQGZRKTf3A" alt="YouTube logo" width="18" /> [Mr. Elmi | Cyber Security](https://www.youtube.com/@MrElmiCyber).
-- I spend a lot of my time learning Cybersecurity and Cloud myself. Right now I'm working toward AWS Solutions Architect.
+- I spend a lot of my time learning Cybersecurity and Cloud myself. Right now I'm working toward <img src="https://img.logo.dev/name/amazonaws?token=pk_KNq359F_SLGXSQGZRKTf3A" alt="AWS logo" width="18" /> [AWS Solutions Architect](https://aws.amazon.com/certification/certified-solutions-architect-associate/).
 
 ## Latest Blog Posts
 
