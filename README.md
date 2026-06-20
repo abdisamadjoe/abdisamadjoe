@@ -15,13 +15,6 @@
 - 🎧 **[Hearline](https://hearline.groundwork.co.ke/)** - reads any webpage, article or blog out loud with real-time word highlighting.
 - 📸 **[Snap2Sell](https://www.snap2sell.co.ke/)** - the marketplace where Kenyans buy and sell anything in seconds.
 
-
-
-
-## GitHub Activity
-
-![GitHub Contribution Graph](https://ghchart.rshah.org/abdisamadjoe)
-
 ## What I'm Doing
 
 - **Building AI tools and apps** - Making simple, useful tools for real problems in business and everyday life
