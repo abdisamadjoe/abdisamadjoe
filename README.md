@@ -15,10 +15,10 @@
 - 🎧 **[Hearline](https://hearline.groundwork.co.ke/)** - reads any webpage, article or blog out loud with real-time word highlighting.
 - 📸 **[Snap2Sell](https://www.snap2sell.co.ke/)** - the marketplace where Kenyans buy and sell anything in seconds.
 
-## What I'm Doing
+## When I'm Not Building
 
-- **Building AI tools and apps** - Making simple, useful tools for real problems in business and everyday life
-- **YouTube content creation** - Sharing tech, cybersecurity, and app-building videos on [Mr. Elmi](https://www.youtube.com/@MrElmiCyber)
+- **I create courses and tutorials that teach Cybersecurity, Linux, and Cloud on YouTube — [Mr. Elmi | Cyber Security.](https://www.youtube.com/@MrElmiCyber)**
+- **I spend a lot of my time learning Cybersecurity and Cloud myself. Right now I'm working toward AWS Solutions Architect.**
 
 ## Latest Blog Posts
 
