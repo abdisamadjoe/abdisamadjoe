@@ -10,10 +10,10 @@
 
 ## Current Projects
 
-- 🛡️ [DifaacSec](https://difaacsec.abdisamadjoe.com/) – a FREE, hands-on cybersecurity platform for Somali learners.
-- 🏠 [Nidaamiye](https://jengopesa.co.ke/) - The modern standard for property management in East Africa.
-- 🎧 [Hearline](https://hearline.groundwork.co.ke/) - reads any webpage, article or blog out loud with real-time word highlighting.
-- 📸 [Snap2Sell](https://www.snap2sell.co.ke/) - the marketplace where Kenyans buy and sell anything in seconds.
+- [DifaacSec](https://difaacsec.abdisamadjoe.com/) – a FREE, hands-on cybersecurity platform for Somali learners.
+- [Nidaamiye](https://jengopesa.co.ke/) - The modern standard for property management in East Africa.
+- [Hearline](https://hearline.groundwork.co.ke/) - reads any webpage, article or blog out loud with real-time word highlighting.
+- [Snap2Sell](https://www.snap2sell.co.ke/) - the marketplace where Kenyans buy and sell anything in seconds.
 
 ## When I'm Not Building
 
