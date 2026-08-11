@@ -10,8 +10,8 @@ Nairobi ↔ Mogadishu | [DevSecOps Engineer](https://www.redhat.com/en/topics/de
 
 ## Current Projects
 
-- [DifaacSec](https://difaacsec.abdisamadjoe.com/) – a FREE, hands-on cybersecurity platform for Somali learners.
 - [Nidamiye](https://nidamiye.com/) - Manage your rental property without stress. 
+- [DifaacSec](https://difaacsec.abdisamadjoe.com/) – a FREE hands-on cybersecurity platform for Somali learners.
 - [Hearline](https://hearline.groundwork.co.ke/) - reads any webpage, article or blog out loud with real-time word highlighting.
 - [Snap2Sell](https://www.snap2sell.co.ke/) - the marketplace where Kenyans buy and sell anything in seconds.
 
