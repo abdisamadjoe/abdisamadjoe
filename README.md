@@ -16,6 +16,7 @@ Nairobi ↔ Mogadishu | [DevSecOps Engineer](https://www.redhat.com/en/topics/de
 - [DifaacSec](https://difaacsec.groundwork.co.ke/) – FREE cybersecurity learning platform for Somali learners.
 - [Hearline](https://hearline.groundwork.co.ke/) - reads any webpage, article or blog out loud with real-time word highlighting.
 - [Snap2Sell](https://www.snap2sell.co.ke/) - the marketplace where Kenyans buy and sell anything in seconds.
+- [Portfolio Template](https://github.com/abdisamadjoe/abdisamadyusuf) - the source code behind my personal site. Fork it, make it yours.
 
 ## When I'm Not Building
 
