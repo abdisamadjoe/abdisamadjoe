@@ -13,7 +13,7 @@ Nairobi ↔ Mogadishu | [DevSecOps Engineer](https://www.redhat.com/en/topics/de
 - [Daftari](https://daftari.ahranglobal.com/) - the cash book app for shops and individuals.
 - [Freelancey](https://github.com/abdisamadjoe/Freelancey) - Open-source client and project management for freelancers.
 - [Nidamiye](https://nidamiye.com/) - Manage your rental property without stress. 
-- [DifaacSec](https://difaacsec.groundwork.co.ke/) – FREE cybersecurity learning platform for Somali learners.
+- [DifaacSec](https://difaacsec.groundwork.co.ke/) - FREE cybersecurity learning platform for Somali learners.
 - [Hearline](https://hearline.groundwork.co.ke/) - reads any webpage, article or blog out loud with real-time word highlighting.
 - [Snap2Sell](https://www.snap2sell.co.ke/) - the marketplace where Kenyans buy and sell anything in seconds.
 - [Portfolio Template](https://github.com/abdisamadjoe/abdisamadyusuf) - the source code behind my personal site. Fork it, make it yours.
