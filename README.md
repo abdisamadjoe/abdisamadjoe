@@ -23,15 +23,7 @@ Nairobi ↔ Mogadishu | [DevSecOps Engineer](https://www.redhat.com/en/topics/de
 - I create courses and tutorials that teach Cybersecurity, Linux, and Cloud on YouTube <img src="https://img.logo.dev/name/youtube?token=pk_KNq359F_SLGXSQGZRKTf3A" alt="YouTube logo" width="18" /> [Mr. Elmi | Cyber Security](https://www.youtube.com/@MrElmiCyber).
 - I spend a lot of my time learning Cybersecurity and Cloud myself. Right now I'm working toward <img src="https://img.logo.dev/amazonaws.com?token=pk_KNq359F_SLGXSQGZRKTf3A" alt="AWS logo" width="18" /> [AWS Solutions Architect](https://aws.amazon.com/certification/certified-solutions-architect-associate/).
 
-## Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-- [How I Passed Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900) in Just 3 Days](https://medium.com/@abdisamadjoe/how-i-passed-microsoft-certified-security-compliance-and-identity-fundamentals-sc-900-in-just-09dacc353447)
-- [How I Passed Microsoft Certified: Azure Fundamentals in Just 7 Days](https://medium.com/@abdisamadjoe/how-i-passed-microsoft-certified-azure-fundamentals-in-just-7-days-7206a309a35f)
-- [How I Passed and Became AWS Certified Cloud Practitioner](https://medium.com/@abdisamadjoe/how-i-passed-the-aws-cloud-practitioner-exam-on-my-first-try-1e1cf9c82861)
-- [The Simple Productivity System That Finally Worked for Me](https://medium.com/@abdisamadjoe/i-was-always-busy-but-never-productive-until-i-did-this-4163ad08be73)
-- [Why Google’s Cybersecurity Certificate is the Best for Beginners](https://medium.com/@abdisamadjoe/why-googles-cybersecurity-certificate-is-the-best-for-beginners-b6e9ada88bfb)
-<!-- BLOG-POST-LIST:END -->
 
 ## Connect
 
