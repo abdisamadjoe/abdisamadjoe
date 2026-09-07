@@ -24,14 +24,6 @@ Nairobi ↔ Mogadishu | [DevSecOps Engineer](https://www.redhat.com/en/topics/de
 - I spend a lot of my time learning Cybersecurity and Cloud myself. Right now I'm working toward <img src="https://img.logo.dev/amazonaws.com?token=pk_KNq359F_SLGXSQGZRKTf3A" alt="AWS logo" width="18" /> [AWS Solutions Architect](https://aws.amazon.com/certification/certified-solutions-architect-associate/).
 
 
-
-## Connect
-
-[![Twitter](https://img.shields.io/badge/-Twitter(X)-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/abdisamadjoe)
-[![Blog](https://img.shields.io/badge/-Website-FF5722?style=flat-square&logo=hugo&logoColor=white)](https://abdisamadjoe.com/)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdisamadjoe/)
-[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/abdisamadjoe)
-
 ---
 
 ### Philosophy
