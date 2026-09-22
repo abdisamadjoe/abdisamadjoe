@@ -10,7 +10,7 @@ Nairobi ↔ Mogadishu | [DevSecOps Engineer](https://www.redhat.com/en/topics/de
 
 ## Current Projects
 
-- [Daftari](https://daftari.ahranglobal.com/) - the cash book app for shops and individuals.
+- [Daftari](https://daftari.groundwork.co.ke) - the cash book app for shops and individuals.
 - [Freelancey](https://github.com/abdisamadjoe/Freelancey) - Open-source client and project management for freelancers.
 - [Daarly](https://nidamiye.com/) - Manage your rental property without stress. 
 - [DifaacSec](https://difaacsec.groundwork.co.ke/) - FREE cybersecurity learning platform for Somali learners.
