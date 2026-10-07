@@ -10,6 +10,7 @@ Nairobi ↔ Mogadishu | [DevSecOps Engineer](https://www.redhat.com/en/topics/de
 
 ## Current Projects
 
+- [Shadely](https://shadely.groundwork.co.ke) - Turn any color into a perfect Tailwind palette.
 - [Daftari](https://daftari.groundwork.co.ke) - the cash book app for shops and individuals.
 - [Freelancey](https://github.com/abdisamadjoe/Freelancey) - Open-source client and project management for freelancers.
 - [Daarly](https://daarly.app) - Manage your rental property without stress. 
