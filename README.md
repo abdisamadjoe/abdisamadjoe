@@ -2,7 +2,7 @@
 
 Nairobi ↔ Mogadishu | [DevSecOps Engineer](https://www.redhat.com/en/topics/devops/what-is-devsecops) | [Groundwork Technologies](https://www.groundwork.co.ke/) 
 
-[![My Skills](https://skillicons.dev/icons?i=figma,tailwind,nextjs,react,nodejs,express,ts,nestjs,prisma,postgres,redis,flutter,dart,firebase,cloudflare,github,githubactions,aws,ubuntu,docker,kubernetes,terraform,prometheus,grafana,kali&theme=light&perline=50)]
+![My Skills](https://skillicons.dev/icons?i=figma,tailwind,nextjs,react,nodejs,express,ts,nestjs,prisma,postgres,redis,flutter,dart,firebase,cloudflare,github,githubactions,aws,ubuntu,docker,kubernetes,terraform,prometheus,grafana,kali&theme=light&perline=50)
 
 > I build software for SMEs and organizations that solve their problems, with enterprise-grade security built in.
 
