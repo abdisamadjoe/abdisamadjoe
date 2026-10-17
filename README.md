@@ -12,7 +12,7 @@ Nairobi ↔ Mogadishu | [DevSecOps Engineer](https://www.redhat.com/en/topics/de
 
 - [Shadely](https://shadely.groundwork.co.ke) - Turn any color into a perfect Tailwind palette.
 - [Daftari](https://daftari.groundwork.co.ke) - the cash book app for shops and individuals.
-- [Freelancey](https://freelancey.groundwork.co.ke/) - Open-source client and project management for freelancers.
+- [Gigly](https://gigly.groundwork.co.ke/) - Open-source client and project management for freelancers.
 - [Daarly](https://daarly.app) - Manage your rental property without stress. 
 - [DifaacSec](https://difaacsec.groundwork.co.ke) - FREE cybersecurity learning platform for Somali learners.
 - [Hearline](https://hearline.groundwork.co.ke) - reads any webpage, article or blog out loud with real-time word highlighting.
