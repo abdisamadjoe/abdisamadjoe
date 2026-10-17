@@ -10,6 +10,7 @@ Nairobi ↔ Mogadishu | [DevSecOps Engineer](https://www.redhat.com/en/topics/de
 
 ## Current Projects
 
+- [Readly](https://github.com/GroundworkTechnologies/readly) - Render Markdown exactly like GitHub without pushing.
 - [Shadely](https://shadely.groundwork.co.ke) - Turn any color into a perfect Tailwind palette.
 - [Daftari](https://daftari.groundwork.co.ke) - the cash book app for shops and individuals.
 - [Gigly](https://gigly.groundwork.co.ke/) - Open-source client and project management for freelancers.
